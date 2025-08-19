@@ -39,8 +39,7 @@ The implementation follows the manuscript Methods:
    - Python ≥ 3.9  
 2. **Execute**
    ```bash
-   python _code/Script_BS1.py
-```
+   python _code/Script_BS1.py````
 
 3. **Outputs**
 
