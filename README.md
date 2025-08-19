@@ -79,7 +79,7 @@ The script automatically creates `outputs/` and writes results there.
 
 ## Citation
 
-Please cite the dissertation (and archived code/data DOI, once released).
+Please cite the dissertation, once released.
 A software/data DOI (e.g., Zenodo) will be added here **post-embargo**.
 
 ---
