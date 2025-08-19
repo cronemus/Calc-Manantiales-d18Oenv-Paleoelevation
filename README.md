@@ -54,10 +54,10 @@ The script automatically creates `outputs/` and writes results there.
 
 * `data/lapse_curves.csv` — long-format curves with columns:
 
-  * `d18O_VSMOW` (‰), `z_km` (preferred; if absent, `z_m` is accepted and treated as km), `curve`
+  * `d18O_VSMOW` (‰), `z_km`, `curve`
   * `curve` values include: `empirical-{main,low,high}`, `winter-{main,low,high}`, `summer-{main,low,high}`
 
-* `data/Carbonate_Data_Raw.csv` — expects (case-insensitive variants handled):
+* `data/Carbonate_Data_Raw.csv`
 
   * `Sample_ID`, `Age_Ma`, `Type`, `Source` (optional), `d18O_mean_VPDB`, `d18O_sd_VPDB`
   * Defaults: if SD missing, **0.10‰** is used; Spar excluded; Nodules/Lenses/Rhizoliths included.
