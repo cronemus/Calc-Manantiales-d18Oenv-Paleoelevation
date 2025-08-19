@@ -40,7 +40,7 @@ The implementation follows the manuscript Methods:
 2. **Execute**
    ```bash
    python _code/Script_BS1.py
-````
+```
 
 3. **Outputs**
 
@@ -89,5 +89,3 @@ A software/data DOI (e.g., Zenodo) will be added here **post-embargo**.
 
 * Code: MIT
 * Data: CC BY 4.0
-
-```
